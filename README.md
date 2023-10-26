@@ -1,0 +1,2 @@
+# Minesweper
+a simple game
